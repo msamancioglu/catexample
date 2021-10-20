@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+media/
+static/
+local_settings.py
+.idea/
+# Other unwanted stuff
+.idea
+db.sqlite3
+*/migrations/*
+venv/
+/management/migrations/
+/otels/migrations/
+/accomodations/migrations/
+/actions/migrations/
+/booking/migrations/

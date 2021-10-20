@@ -20,6 +20,7 @@
       <change afterPath="$PROJECT_DIR$/restapp/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/restapp/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/restapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634717610390</updated>
-      <workItem from="1634717612610" duration="3404000" />
+      <workItem from="1634717612610" duration="3651000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1634724092244</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634724092244</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1634724494394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634724494394</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
